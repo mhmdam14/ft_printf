@@ -20,7 +20,7 @@ This project helped me strengthen my skills in variadic functions, parsing, and 
 Clone the repository and run `make` to compile the library:
 
 ```bash
-git clone https://github.com/your-username/ft_printf.git
+git clone https://github.com/mhmdam14/ft_printf.git
 cd ft_printf
 make
 gcc your_code.c -L. -lftprintf -o your_program
